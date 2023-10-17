@@ -1,0 +1,51 @@
+div.navbar img {
+    width: 75px;
+}
+
+div.navbar a {
+    text-decoration: none;
+}
+
+#halal {
+    width: 35px;
+
+}
+
+#start_order {
+    height: 60px;
+    box-shadow: 0 0 5px 4px grey;
+    position: relative;
+    bottom: 10px;
+}
+
+.landing {
+    height: 200px;
+    background-image: url("../images/3.png");
+    background-size: cover;
+
+}
+
+div.menu {
+    height: 50px;
+    position: relative;
+    bottom: 50px;
+    background-color: rgba(0, 0, 0, 0.199);
+}
+
+div.menu a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+div.menu a.active {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    border-bottom: 2px solid red;
+}
+
+.offers select {
+    display: inline;
+    max-width: 49%;
+}
